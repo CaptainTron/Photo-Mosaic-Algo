@@ -1,4 +1,4 @@
-## Photo Mosaic Using golang 
+## Photo Mosaic Using golang  [![Go](https://github.com/CaptainTron/Photo-Mosaic-Algo/actions/workflows/go.yml/badge.svg)](https://github.com/CaptainTron/Photo-Mosaic-Algo/actions/workflows/go.yml) 
 This is algorithm for creating Photo Mosaic using Concurrency (go routine and channels) in golang.  
  - Following steps has been followed without use of any third party library
    - Build a database, a hash for tile pictures, by scanning a directory of pictures and then using the filename as the key and the average color of the pictures as the value.
