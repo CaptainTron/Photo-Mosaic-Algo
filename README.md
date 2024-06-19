@@ -17,4 +17,13 @@ This is algorithm for creating Photo Mosaic using golang.
    - Combine the Results into a single mosaic
 
 ### Note :-  
-- You Just need to Execute the learn.exe file on you system with ```tiles``` as folder and should contain all the images for Mosaic.  
+- You Just need to Execute the learn.exe file on you system with ```tiles``` as folder and should contain all the images for Mosaic.
+
+## Test Run  
+Standing Elephant
+- Dimensions :- 427 X 640
+- Size :- 60 KB
+- Number of pixels :- 10
+- Time Taken at time of test :- Approx 25 ms
+
+![image](https://github.com/CaptainTron/Photo-Mosaic-Algo/assets/94986377/4f7b65f7-9d25-421e-8992-992d5631f158)
